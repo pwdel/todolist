@@ -9,7 +9,7 @@
 
 ### Next Important Thing
 
-* Dockerize and Deploy Python Flask App for Heroku
+* [Dockerize and Deploy Python Flask App for Heroku](https://github.com/pwdel/herokudockerflask)
 
 ### High-ish Priority
 
@@ -17,7 +17,6 @@
 * Python Flask App with Heroku, with login, database and API capability.
 * Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.
 * Improve resume on Github, specifically, Tables.
-* 
 
 ### Low-ish Priority, Ideas, May Never Happen
 
