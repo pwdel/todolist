@@ -25,6 +25,7 @@
 
 ### Low-ish Priority, Ideas, May Never Happen
 
+* Collecting Shell Scripts and Adding to Linux as Default - Refer to [this guide](https://www.tecmint.com/write-custom-shell-functions-and-libraries-in-linux/).  Create better Docker shell scripts with conditional statements.
 * Open Source Workbench Design on Openscad
 * Open Source Campstove
 * Asset Locator
