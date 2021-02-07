@@ -13,7 +13,6 @@
 
 ### High-ish Priority
 
-* Python Flask app with Heroku, with login, database and API capability.
 * Python Flask app with user model, admin and users.
 * Improved Bag of Words model
 * Work with text generation app on Google Colab.
