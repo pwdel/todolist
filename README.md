@@ -9,7 +9,7 @@
 
 ### Next Important Thing
 
-* [Dockerize and Deploy Python Flask App for Heroku](https://github.com/pwdel/herokudockerflask)
+* [Update Flask App to Include Login, Database and API, Deploy to Heroku with Docker](https://github.com/pwdel/postgresloginapiherokudockerflask)
 
 ### High-ish Priority
 
@@ -39,3 +39,5 @@
 ### Completed
 
 * [Docker Lubuntu](https://github.com/pwdel/dockerlubuntu) - a reference guide for running Docker on Lubunutu.
+* [Dockerize and Deploy Python Flask App for Heroku](https://github.com/pwdel/herokudockerflask) - a reference for deploying Python Flask to Heroku via Docker.
+
