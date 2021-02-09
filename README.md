@@ -13,6 +13,7 @@
 
 ### High-ish Priority
 
+* Shell script which allows me to pick numerically which container to shut down.
 * Python Flask app with user model, admin and users.
 * Improved Bag of Words model
 * Work with text generation app on Google Colab.
