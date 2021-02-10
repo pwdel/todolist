@@ -13,6 +13,7 @@
 
 ### High-ish Priority
 
+* [Structuring Python Code](https://docs.python-guide.org/writing/structure/) and modifying Flask project to maintain good structure.
 * Shell script which allows me to pick numerically which container to shut down.
 * Python Flask app with user model, admin and users.
 * Improved Bag of Words model
