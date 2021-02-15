@@ -14,24 +14,26 @@
 ### High-ish Priority
 
 * [Structuring Python Code](https://docs.python-guide.org/writing/structure/) and modifying Flask project to maintain good structure.
-* Shell script which allows me to pick numerically which container to shut down.
+* Work with [text generation app on Google Colab.](https://colab.research.google.com/github/deepmipt/DeepPavlov/blob/docs/transformers-tutorial/examples/bert_generator.ipynb)
 * Python Flask app with user model, admin and users.
-* Improved Bag of Words model
-* Work with text generation app on Google Colab.
 * Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.
 * Improve resume on Github, specifically, Tables.
 * Work with NN Based Language Training
 * Work with BERT
-* GPT3 Access Key
+* Product Descriptor
 
 ### Low-ish Priority, Ideas, May Never Happen
 
+* [Other Useful CoLab Notebooks](https://devminator.com/forums/topic/list-of-natural-language-processing-nlp-google-colab-notebooks/)
+* Shell script which allows me to pick numerically which container to shut down.
+* Improved Bag of Words model
 * Collecting Shell Scripts and Adding to Linux as Default - Refer to [this guide](https://www.tecmint.com/write-custom-shell-functions-and-libraries-in-linux/).  Create better Docker shell scripts with conditional statements.
 * Open Source Workbench Design on Openscad
 * Open Source Campstove
 * Asset Locator
 * Rpiz Solar
 * Work with Redis
+* GPT3 Access Key
 * Multi-Container Application
 * New Brand Name
 * VNC into linux computers
