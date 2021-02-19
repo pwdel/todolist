@@ -21,7 +21,7 @@
 * Work with BERT
 * Product Descriptor
 * [Flask CK Editor](https://github.com/greyli/flask-ckeditor)
-* Test Driven Development on Flask
+* [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
 
 ### Low-ish Priority, Ideas, May Never Happen
 
@@ -45,6 +45,6 @@
 
 ### Completed
 
-* [Docker Lubuntu](https://github.com/pwdel/dockerlubuntu) - a reference guide for running Docker on Lubunutu.
+* [Update Flask App to Include Login, Database and API, Deploy to Heroku with Docker](https://github.com/pwdel/postgresloginapiherokudockerflask) - deploying a full Flask app with postgres database and user login to Heroku.
 * [Dockerize and Deploy Python Flask App for Heroku](https://github.com/pwdel/herokudockerflask) - a reference for deploying Python Flask to Heroku via Docker.
-* [Update Flask App to Include Login, Database and API, Deploy to Heroku with Docker](https://github.com/pwdel/postgresloginapiherokudockerflask)
+* [Docker Lubuntu](https://github.com/pwdel/dockerlubuntu) - a reference guide for running Docker on Lubunutu.
