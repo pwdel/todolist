@@ -45,6 +45,7 @@
 
 ### Completed
 
+* [Working with Tensorflow and GPU on Local Machine via Docker](https://github.com/pwdel/nvidialubuntutensorflow)
 * [Update Flask App to Include Login, Database and API, Deploy to Heroku with Docker](https://github.com/pwdel/postgresloginapiherokudockerflask) - deploying a full Flask app with postgres database and user login to Heroku.
 * [Dockerize and Deploy Python Flask App for Heroku](https://github.com/pwdel/herokudockerflask) - a reference for deploying Python Flask to Heroku via Docker.
 * [Docker Lubuntu](https://github.com/pwdel/dockerlubuntu) - a reference guide for running Docker on Lubunutu.
