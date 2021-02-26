@@ -14,6 +14,7 @@
 ### High-ish Priority
 
 * [Python Flask app with user model that includes administration of approved users, as well as different dashboards different types of users can access](https://github.com/pwdel/userlevelmodelsflask).
+* [Rank Self on HackerRank](https://www.hackerrank.com/)
 * Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.
 * Tensorflow
 * Pytorch
