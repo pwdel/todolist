@@ -10,6 +10,7 @@
 ### Next Important Thing
 
 * [Python Flask app with user model that includes administration of approved users, as well as different dashboards different types of users can access](https://github.com/pwdel/userlevelmodelsflask).
+* [SQL Tutorial](https://github.com/pwdel/sqltutorial)
 
 ### High-ish Priority
 
@@ -22,7 +23,6 @@
 * Reach Out to Recruiters
 * Tensorflow
 * Pytorch
-* SQL
 * Work with BERT
 * Product Descriptor
 * [Flask CK Editor](https://github.com/greyli/flask-ckeditor)
