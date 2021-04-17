@@ -9,25 +9,25 @@
 
 ### Next Important Thing
 
-[Improved Flask Security and Login Practices](https://github.com/pwdel/flasksecurity)
+* [Production Grade Simple Text Generator Application](https://github.com/pwdel/srcflask)
 
 ### High-ish Priority
 
 * Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.
 * Contact PyMNTos
 * [Rank Self on HackerRank](https://www.hackerrank.com/)
-* Work with [text generation Google Colab notebook examples.](https://github.com/pwdel/textgeneratornotes)
 * [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
-* Contribute to OSS
 * Reach Out to Recruiters
 * Tensorflow
 * Pytorch
 * Work with BERT
-* Product Descriptor
+
 * [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
 
 ### Low-ish Priority, Ideas, May Never Happen
 
+* Contribute to OSS
+* Product Descriptor
 * [Flask CK Editor](https://github.com/greyli/flask-ckeditor)
 * [DynamoDB, Lambda, IoT Application]() - Asset locator?
 * Easily Approachable Statistics, Visual Guide Book
@@ -47,6 +47,8 @@
 
 ### Completed
 
+* [Improved Flask Security and Login Practices](https://github.com/pwdel/flasksecurity)
+* Work with [text generation Google Colab notebook examples.](https://github.com/pwdel/textgeneratornotes)
 * [Python Flask app with user model that includes administration of approved users, as well as different dashboards different types of users can access](https://github.com/pwdel/userlevelmodelsflask).
 * [SQL Tutorial](https://github.com/pwdel/sqltutorial)
 * [Working with Tensorflow and GPU on Local Machine via Docker](https://github.com/pwdel/nvidialubuntutensorflow)
