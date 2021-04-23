@@ -9,19 +9,18 @@
 
 ### Next Important Thing
 
-* [Production Grade Simple Text Generator Application](https://github.com/pwdel/srcflask)
+* [Production Language Generator](https://github.com/pwdel/productionlanguagegenerator)
 
 ### High-ish Priority
 
 * Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.
-* Contact PyMNTos
-* [Rank Self on HackerRank](https://www.hackerrank.com/)
+* [Improved Language Generator](https://github.com/pwdel/improvedlanguagegenerator)
 * [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
+* [Rank Self on HackerRank](https://www.hackerrank.com/)
+* Contact PyMNTos
 * Reach Out to Recruiters
 * Tensorflow
 * Pytorch
-* Work with BERT
-
 * [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
 
 ### Low-ish Priority, Ideas, May Never Happen
@@ -47,6 +46,7 @@
 
 ### Completed
 
+* [Production Grade Simple Text Generator Application](https://github.com/pwdel/srcflask)
 * [Improved Flask Security and Login Practices](https://github.com/pwdel/flasksecurity)
 * Work with [text generation Google Colab notebook examples.](https://github.com/pwdel/textgeneratornotes)
 * [Python Flask app with user model that includes administration of approved users, as well as different dashboards different types of users can access](https://github.com/pwdel/userlevelmodelsflask).
