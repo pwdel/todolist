@@ -15,21 +15,21 @@
 
 * [Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.](https://github.com/pwdel/webscrape)
 * [Improved Language Generator](https://github.com/pwdel/improvedlanguagegenerator)
-* [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
 * [Rank Self on HackerRank](https://www.hackerrank.com/)
+* [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
+* [Larger Scale Data Engineering](https://github.com/pwdel/dataengineering)
 * Contact PyMNTos
 * Reach Out to Recruiters
 * Tensorflow
 * Pytorch
-* [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
+
 
 ### Low-ish Priority, Ideas, May Never Happen
 
-* Contribute to OSS
 * Product Descriptor
 * [Flask CK Editor](https://github.com/greyli/flask-ckeditor)
 * [DynamoDB, Lambda, IoT Application]() - Asset locator?
-* Easily Approachable Statistics, Visual Guide Book
+* Statistics for Lemurs, Visual Guide Book
 * Improve resume on Github, specifically, Tables.
 * [Other Useful CoLab Notebooks](https://devminator.com/forums/topic/list-of-natural-language-processing-nlp-google-colab-notebooks/)
 * Shell script which allows me to pick numerically which container to shut down.
@@ -46,6 +46,7 @@
 
 ### Completed
 
+* Contribute to OSS
 * [Production Grade Simple Text Generator Application](https://github.com/pwdel/srcflask)
 * [Improved Flask Security and Login Practices](https://github.com/pwdel/flasksecurity)
 * Work with [text generation Google Colab notebook examples.](https://github.com/pwdel/textgeneratornotes)
