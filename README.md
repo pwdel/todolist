@@ -13,7 +13,7 @@
 
 ### High-ish Priority
 
-* Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.
+* [Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.](https://github.com/pwdel/webscrape)
 * [Improved Language Generator](https://github.com/pwdel/improvedlanguagegenerator)
 * [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
 * [Rank Self on HackerRank](https://www.hackerrank.com/)
