@@ -18,10 +18,11 @@
 * [Rank Self on HackerRank](https://www.hackerrank.com/)
 * [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
 * [Larger Scale Data Engineering](https://github.com/pwdel/dataengineering)
+* [Pytorch Tutorial](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 * Contact PyMNTos
 * Reach Out to Recruiters
 * Tensorflow
-* Pytorch
+
 
 
 ### Low-ish Priority, Ideas, May Never Happen
