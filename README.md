@@ -9,22 +9,22 @@
 
 ### Next Important Thing
 
-* [Production Language Generator](https://github.com/pwdel/productionlanguagegenerator)
+* [Code Practice](https://github.com/pwdel/codepractice)
 
 ### High-ish Priority
 
 * [Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.](https://github.com/pwdel/webscrape)
+* [Production Language Generator](https://github.com/pwdel/productionlanguagegenerator)
 * [Improved Language Generator](https://github.com/pwdel/improvedlanguagegenerator)
 * [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
-* [Rank Self on HackerRank](https://www.hackerrank.com/)
-* Contact PyMNTos
-* Reach Out to Recruiters
+* [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
 * Tensorflow
 * Pytorch
-* [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
 
 ### Low-ish Priority, Ideas, May Never Happen
 
+* Try out [Data Version Control](https://dvc.org/)
+* Contact PyMNTos
 * Contribute to OSS
 * Product Descriptor
 * [Flask CK Editor](https://github.com/greyli/flask-ckeditor)
@@ -39,13 +39,13 @@
 * Open Source Campstove
 * Rpiz Solar
 * Work with Redis
-* GPT3 Access Key
 * Multi-Container Application
 * VNC into linux computers
 * Networking and Ports Reference Guide
 
 ### Completed
 
+* Reach Out to Recruiters
 * [Production Grade Simple Text Generator Application](https://github.com/pwdel/srcflask)
 * [Improved Flask Security and Login Practices](https://github.com/pwdel/flasksecurity)
 * Work with [text generation Google Colab notebook examples.](https://github.com/pwdel/textgeneratornotes)
@@ -56,3 +56,7 @@
 * [Dockerize and Deploy Python Flask App for Heroku](https://github.com/pwdel/herokudockerflask) - a reference for deploying Python Flask to Heroku via Docker.
 * [Docker Lubuntu](https://github.com/pwdel/dockerlubuntu) - a reference guide for running Docker on Lubunutu.
 * [Twitter Sentiment Analysis](https://github.com/pwdel/appletwittersentiment/blob/main/readmesections/WordEmbeddings.md)
+
+### Cancelled
+
+* GPT3 Access Key - OpenAI now provides GPT3 access via Microsoft exclusively.
