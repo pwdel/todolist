@@ -9,20 +9,23 @@
 
 ### Next Important Thing
 
-* [Code Practice](https://github.com/pwdel/codepractice)
+* [Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.](https://github.com/pwdel/webscrape)
 
 ### High-ish Priority
 
-* [Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.](https://github.com/pwdel/webscrape)
+* [Code Practice](https://github.com/pwdel/codepractice)
 * [Production Language Generator](https://github.com/pwdel/productionlanguagegenerator)
 * [Improved Language Generator](https://github.com/pwdel/improvedlanguagegenerator)
 * [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
 * [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
-* Tensorflow
-* Pytorch
+* [API](buildanapi off of above services)
 
 ### Low-ish Priority, Ideas, May Never Happen
 
+* Flask Kubernetes
+* Tensorflow by Itself
+* Pytorch Language Gen
+* SQLite
 * Spark
 * Kafka
 * Try out [Data Version Control](https://dvc.org/)
