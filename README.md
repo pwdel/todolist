@@ -23,6 +23,8 @@
 
 ### Low-ish Priority, Ideas, May Never Happen
 
+* Spark
+* Kafka
 * Try out [Data Version Control](https://dvc.org/)
 * Contact PyMNTos
 * Contribute to OSS
