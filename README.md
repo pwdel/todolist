@@ -18,16 +18,18 @@
 * [Improved Language Generator](https://github.com/pwdel/improvedlanguagegenerator)
 * [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
 * [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
-* [API](buildanapi off of above services)
+* API - buildanapi off of one or more of above services
 
 ### Low-ish Priority, Ideas, May Never Happen
 
-* Flask Kubernetes
+* Python Async - https://docs.python.org/3/library/asyncio.html
+* Project Showing SQLite
+* Project Showing Either Node/React/Angular (probably either Node or Angular)
+* Project Showing [Pandas and Main ML Python Ecosystem](https://www.scipy.org/) and [Scikit Learn](https://scikit-learn.org/stable/)
+* Project Showing Flask Kubernetes
 * Tensorflow by Itself
 * Pytorch Language Gen
-* SQLite
-* Spark
-* Kafka
+* Project Showing ETL / Spark / Kafka
 * Try out [Data Version Control](https://dvc.org/)
 * Contact PyMNTos
 * Contribute to OSS
