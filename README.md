@@ -13,7 +13,7 @@
 
 ### High-ish Priority
 
-* Project Showing [Pandas and Main ML Python Ecosystem](https://www.scipy.org/) and [Scikit Learn](https://scikit-learn.org/stable/)
+* [Project Showing](https://github.com/pwdel/discriminant) discriminant analysis.
 * API - buildanapi off of one or more of above services
 
 ### Low-ish Priority, Ideas, May Never Happen
