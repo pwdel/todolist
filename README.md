@@ -9,24 +9,25 @@
 
 ### Next Important Thing
 
-* [Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.](https://github.com/pwdel/webscrape)
+* [Integrate Flask and React](https://github.com/pwdel/reactjsflask)
 
 ### High-ish Priority
 
-* [Code Practice](https://github.com/pwdel/codepractice)
-* [Production Language Generator](https://github.com/pwdel/productionlanguagegenerator)
-* [Improved Language Generator](https://github.com/pwdel/improvedlanguagegenerator)
-* [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
-* [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
+* Project Showing [Pandas and Main ML Python Ecosystem](https://www.scipy.org/) and [Scikit Learn](https://scikit-learn.org/stable/)
 * API - buildanapi off of one or more of above services
 
 ### Low-ish Priority, Ideas, May Never Happen
 
+* [Test Driven Development on Flask](https://github.com/pwdel/unittestflask)
+* [Code Practice](https://github.com/pwdel/codepractice)
+* [Locally Deplolyed Kubernetes](https://github.com/pwdel/k3dio)
 * Python Async - https://docs.python.org/3/library/asyncio.html
-* Project Showing SQLite
-* Project Showing Either Node/React/Angular (probably either Node or Angular)
-* Project Showing [Pandas and Main ML Python Ecosystem](https://www.scipy.org/) and [Scikit Learn](https://scikit-learn.org/stable/)
 * Project Showing Flask Kubernetes
+* [Production Language Generator](https://github.com/pwdel/productionlanguagegenerator)
+* [Improved Language Generator](https://github.com/pwdel/improvedlanguagegenerator)
+* [Fine Tune and Evaluate Case Study via Many Different Models via Transformers](https://huggingface.co/transformers/training.html)
+* [Python Flask Heroku App with Beautiful Soup and capability to scrape blogs to create text library.](https://github.com/pwdel/webscrape)
+* Project Showing SQLite
 * Tensorflow by Itself
 * Pytorch Language Gen
 * Project Showing ETL / Spark / Kafka
@@ -49,9 +50,12 @@
 * Multi-Container Application
 * VNC into linux computers
 * Networking and Ports Reference Guide
+* Ansible
+* https://uppy.io/
 
 ### Completed
 
+* [Build and Deploy Node App on Heroku](https://github.com/pwdel/dockerreactjs)
 * Reach Out to Recruiters
 * [Production Grade Simple Text Generator Application](https://github.com/pwdel/srcflask)
 * [Improved Flask Security and Login Practices](https://github.com/pwdel/flasksecurity)
